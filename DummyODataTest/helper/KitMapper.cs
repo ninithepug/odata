@@ -5,7 +5,7 @@ using AutoMapper;
 using c4codata;
 using DummyTest.Data;
 
-namespace HR.MobileApp.Helper
+namespace Dummy.Test.Helper
 {
 
     public class KitMapper

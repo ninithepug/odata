@@ -9,9 +9,9 @@ using AutoMapper;
 using AutoMapper.QueryableExtensions;
 using c4codata;
 using DummyTest.Data;
-using HR.MobileApp.Helper;
+using Dummy.Test.Helper;
 
-namespace HR.MobileApp.Controllers
+namespace Dummy.Test.Controllers
 {
 
     public class OrderController : ODataController
